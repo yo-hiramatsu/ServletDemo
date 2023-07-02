@@ -14,11 +14,11 @@
 
     <servlet-mapping>
         <servlet-name>inputServlet</servlet-name>
-        <url-pattern>/input</url-pattern>
+        <url-pattern>/user/input</url-pattern>
     </servlet-mapping>
 
     <servlet-mapping>
         <servlet-name>submitServlet</servlet-name>
-        <url-pattern>/submit</url-pattern>
+        <url-pattern>/user/submit</url-pattern>
     </servlet-mapping>
 </web-app>
