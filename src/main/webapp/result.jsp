@@ -3,8 +3,8 @@
 <html>
 <body>
 <h2>ユーザー情報登録完了</h2>
-<p>Name: ${userForm.name}</p>
-<p>Email: ${userForm.email}</p>
-<p>Password: ${userForm.password}</p>
+<p>名前: ${userForm.name}</p>
+<p>E-mail: ${userForm.email}</p>
+<p>パスワード: ${userForm.password}</p>
 </body>
 </html>
